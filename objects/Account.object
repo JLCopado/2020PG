@@ -296,6 +296,14 @@
         <unique>false</unique>
     </fields>
     <fields>
+        <fullName>Not_Today__c</fullName>
+        <defaultValue>false</defaultValue>
+        <externalId>false</externalId>
+        <label>Not Today</label>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Checkbox</type>
+    </fields>
+    <fields>
         <fullName>NumberOfEmployees</fullName>
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
