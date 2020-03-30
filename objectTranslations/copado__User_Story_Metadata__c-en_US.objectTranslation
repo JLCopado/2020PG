@@ -50,4 +50,8 @@
         <name>copado__User_Story__c</name>
         <relationshipLabel><!-- User Story Metadata --></relationshipLabel>
     </fields>
+    <validationRules>
+        <errorMessage><!-- CONTAINS(copado__Metadata_API_Name__c, Account.Not) --></errorMessage>
+        <name>User_Story_Metadata_Name_Filter</name>
+    </validationRules>
 </CustomObjectTranslation>

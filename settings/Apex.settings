@@ -7,9 +7,11 @@
     <enableApexPropertyGetterPref>false</enableApexPropertyGetterPref>
     <enableAuraApexCtrlAuthUserAccessCheckPref>false</enableAuraApexCtrlAuthUserAccessCheckPref>
     <enableAuraApexCtrlGuestUserAccessCheckPref>false</enableAuraApexCtrlGuestUserAccessCheckPref>
+    <enableCompileOnDeploy>false</enableCompileOnDeploy>
     <enableDisableParallelApexTesting>false</enableDisableParallelApexTesting>
     <enableDoNotEmailDebugLog>false</enableDoNotEmailDebugLog>
     <enableGaplessTestAutoNum>false</enableGaplessTestAutoNum>
     <enableMngdCtrlActionAccessPref>false</enableMngdCtrlActionAccessPref>
     <enableNonCertifiedApexMdCrud>false</enableNonCertifiedApexMdCrud>
+    <enableSecureNoArgConstructorPref>false</enableSecureNoArgConstructorPref>
 </ApexSettings>

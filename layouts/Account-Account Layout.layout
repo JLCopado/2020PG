@@ -10,6 +10,10 @@
         <label>Account Information</label>
         <layoutColumns>
             <layoutItems>
+                <behavior>Required</behavior>
+                <field>Account_Ext_Id__c</field>
+            </layoutItems>
+            <layoutItems>
                 <behavior>Edit</behavior>
                 <field>OwnerId</field>
             </layoutItems>
@@ -24,6 +28,10 @@
             <layoutItems>
                 <behavior>Edit</behavior>
                 <field>SAP_Account__c</field>
+            </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>Copado_Trained_2_25__c</field>
             </layoutItems>
         </layoutColumns>
         <layoutColumns>
@@ -145,6 +153,9 @@
         </layoutColumns>
         <style>CustomLinks</style>
     </layoutSections>
+    <miniLayout>
+        <fields>Account_Ext_Id__c</fields>
+    </miniLayout>
     <quickActionList>
         <quickActionListItems>
             <quickActionName>FeedItem.TextPost</quickActionName>
