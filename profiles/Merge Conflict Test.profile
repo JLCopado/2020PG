@@ -2669,11 +2669,6 @@
     </classAccesses>
     <custom>true</custom>
     <fieldPermissions>
-        <editable>true</editable>
-        <field>Account.AQR_Field__c</field>
-        <readable>true</readable>
-    </fieldPermissions>
-    <fieldPermissions>
         <editable>false</editable>
         <field>Account.AccountNumber</field>
         <readable>false</readable>
@@ -2716,11 +2711,6 @@
     <fieldPermissions>
         <editable>false</editable>
         <field>Account.Not_Good_Details__c</field>
-        <readable>false</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>false</editable>
-        <field>Account.Not_Today__c</field>
         <readable>false</readable>
     </fieldPermissions>
     <fieldPermissions>
