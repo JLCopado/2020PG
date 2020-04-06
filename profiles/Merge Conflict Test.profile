@@ -2715,11 +2715,6 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
-        <field>Account.Not_Good_Details__c</field>
-        <readable>false</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>false</editable>
         <field>Account.Not_Today__c</field>
         <readable>false</readable>
     </fieldPermissions>
