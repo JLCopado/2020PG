@@ -6,7 +6,7 @@ public class AccountAutomations {
             return a;
         }
     }
-    // Testing CLI Again
+    // Testing CLI Today
     public static Account setDefaultSite(Account a){
         a.Site = 'Single location'; 
         return a;
